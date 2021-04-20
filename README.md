@@ -14,7 +14,7 @@
 
 ## **Inner working of python**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f113ec89-c97e-449f-808b-a9e44ada6c72/1048a426-e7f6-4df7-b3da-7ee5552b171b/image.png)
+![alt text](<Mutable and immutable examples.png>)
 
 Steps
 
@@ -57,7 +57,7 @@ NOTE:  A **"library" in Python is a collection of modules**, meaning a library i
 
 ## Modules, packages, and Libraries:
 
-![image.png](attachment:b0d5f67f-dc58-460e-97e1-5f5a195323a0:image.png)
+![alt text](<mutable and immutable.png>)
 
 ## Immutable and Mutable in Python:
 
