@@ -55,11 +55,10 @@ Example: importlib.reload(<file_name>) (By this changes made in the module file 
 
 NOTE:  A **"library" in Python is a collection of modules**, meaning a library is a broader concept encompassing multiple modules, whereas a “**module”** is a single Python file containing functions, classes, and variables that can be imported and used in other programs; essentially, a module is a building block of a library.
 
-## Modules, packages, and Libraries:
-
+## Immutable and Mutable in Python:
 ![alt text](<mutable and immutable.png>)
 
-## Immutable and Mutable in Python:
+
 
 - Almost everything in Python is an object, with its properties and methods.
 - In Python, there are two types of datatypes: Immutable and Mutable.
